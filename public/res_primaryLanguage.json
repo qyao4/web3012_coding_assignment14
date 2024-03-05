@@ -1,0 +1,167 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hello and welcome to my portfolio! I'm Qiang Yao, a seasoned Full-Stack Developer with a flair for bridging the gap between front-end and back-end technologies, especially within cloud-based ecosystems. My core competency revolves around crafting resilient solutions for large-scale business applications, leveraging my proficiency in Java, C#, PHP, and JavaScript. Currently, I'm delving into the latest front-end frameworks, including Angular, React, and Vue, to enhance user experiences. The portfolio you're exploring has been meticulously developed using React. I am currently open to job opportunities. If you're on the lookout for a developer who can bring both innovation and efficiency to your projects, please feel free to reach out to me at qyao2021@gmail.com. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Work",
+        "skills": "Skills",
+        "resources": "Resources",
+        "experience": "Developer Setup"
+      }
+    },
+    "projects": [
+      {
+        "title": "Enterprise Website",
+        "startDate": "2023",
+        "description": "Developed professional website for hypothetical clients using JavaScript, HTML, and CSS. This project involved creating a user-friendly, responsive website to showcase company services and facilitate customer interaction.",
+        "images": [
+          "images/portfolio/enterprise-website/p1.png",
+          "images/portfolio/enterprise-website/p2.png",
+          "images/portfolio/enterprise-website/p3.png"
+        ],
+        "url": "http://qyaointeract.byethost11.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Currency Rate",
+        "startDate": "2023",
+        "description": "Developed application using React to provide real-time currency exchange rate queries and calculations. This project involved fetching data from a public API, implementing data binding and destructuring, and creating multiple React components for interactive user experiences; applied CSS in JSX and used styles.css to dynamically change UI elements based on user actions",
+        "images": [
+          "images/portfolio/currency-rate/p1.png",
+          "images/portfolio/currency-rate/p2.png"
+        ],
+        "url": "https://f9hvsc.csb.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Content Management",
+        "startDate": "2023",
+        "description": "Developed comprehensive Content Management System (CMS) for hypothetical second-hand car dealership. This project, which used Apache, JavaScript, PHP, and MySQL stack, was aimed at enhancing sales efficiency and customer satisfaction by managing vehicle inventory and customer interactions more effectively; key features include CAPTCHA for security, SEO-friendly permalinks, and version control using GitHub; system facilitates roles like administrators, who manage vehicle listings, and non-administrative users, who can browse listings and post comments. ",
+        "images": [
+          "images/portfolio/content-management/p1.png",
+          "images/portfolio/content-management/p2.png",
+          "images/portfolio/content-management/p3.png",
+          "images/portfolio/content-management/p4.png",
+          "images/portfolio/content-management/p5.png"
+        ],
+        "url": "http://qyaointeract.byethost11.com/cms/public/home/",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-mysql-original",
+            "name": "MYSQL"
+          },
+          {
+            "class": "devicon-apache-plain",
+            "name": "APACHE"
+          }
+        ]
+      }
+    ],
+    "resources": [
+      {
+        "title": "Web Development Two",
+        "startDate": "notebook",
+        "description": "Web Development 2 builds on the skills you acquired in Web Development 1. In this course you will continue to explore the Web Development stack by incorporating server-side code. PHP will be our server-side language and we will use Javascript for our front-end development.",
+        "images": [
+          "images/portfolio/resources1/p1.png",
+          "images/portfolio/resources1/p2.png"
+        ],
+        "url": "https://stungeye.github.io/Web-Dev-2-Notes/"
+      },
+      {
+        "title": "Iconify Design",
+        "startDate": "icon",
+        "description": "The website provides a collection of open-source icon sets that can be used for web and app development. It features a variety of icon styles and categories from different designers, available under different licenses. Users can filter and select icons based on their needs and use them in their projects, adhering to the specified license conditions. The icons cater to a wide range of applications, from general use to specific themes.",
+        "images": [
+          "images/portfolio/resources2/p1.png",
+          "images/portfolio/resources2/p2.png"
+        ],
+        "url": "https://icon-sets.iconify.design/?query=angular"
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "corner",
+        "description": "The website  by Tim Holman is a modern, SVG-based twist on the classic ribbon. It offers a more polished and less obtrusive way to link from a project page to its GitHub repository. The site includes instructions and code snippets for creating your own GitHub corner in various colors, which animates when hovered over on desktop or upon page load on mobile devices. Visitors can customize and download their version to incorporate into their projects.",
+        "images": [
+          "images/portfolio/resources3/p1.png",
+          "images/portfolio/resources3/p2.png"
+        ],
+        "url": "https://tholman.com/github-corners/"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Extensions",
+        "title": "VsCode set up",
+        "years": "",
+        "mainTech": [
+          "VsCode"
+        ],
+        "technologies": [
+          "Prettier",
+          "ESLint",
+          "GitLens",
+          "Live Server",
+          "Theme: Dracula Official",
+          "Icon Theme: Material Icon Theme"
+        ]
+      },
+      {
+        "company": "Plugins and Tools",
+        "title": "Terminal set up",
+        "years": "",
+        "mainTech": [
+          "Terminal"
+        ],
+        "technologies": [
+          "iTerm2 (macOS)",
+          "Hyper (Windows/Linux)",
+          "Zsh (Z Shell)",
+          "tmux"
+        ]
+      },
+      {
+        "company": "",
+        "title": "Preferred editor font",
+        "years": "",
+        "mainTech": [
+          "Font"
+        ],
+        "technologies": [
+          "Font Family: 'Fira Code'",
+          "Font Size: 14px"
+        ]
+      }
+    ]
+  }

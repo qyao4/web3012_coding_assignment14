@@ -1,0 +1,69 @@
+{
+    "basic_info": {
+      "name": "Qiang Yao",
+      "titles": [ "Software Developer", "Full Stack Developer", "Senior Data Engineer", "Web App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "profile.jfif"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "90"
+        },
+
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
