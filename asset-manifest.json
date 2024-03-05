@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/web3012_coding_assignment14/static/css/main.df700d1f.chunk.css",
+    "main.js": "/web3012_coding_assignment14/static/js/main.96879bbb.chunk.js",
+    "main.js.map": "/web3012_coding_assignment14/static/js/main.96879bbb.chunk.js.map",
+    "runtime-main.js": "/web3012_coding_assignment14/static/js/runtime-main.f4ffc4c9.js",
+    "runtime-main.js.map": "/web3012_coding_assignment14/static/js/runtime-main.f4ffc4c9.js.map",
+    "static/css/2.fd277b09.chunk.css": "/web3012_coding_assignment14/static/css/2.fd277b09.chunk.css",
+    "static/js/2.6b8ed305.chunk.js": "/web3012_coding_assignment14/static/js/2.6b8ed305.chunk.js",
+    "static/js/2.6b8ed305.chunk.js.map": "/web3012_coding_assignment14/static/js/2.6b8ed305.chunk.js.map",
+    "index.html": "/web3012_coding_assignment14/index.html",
+    "precache-manifest.dd7385ac98711eed33a4f4430089657f.js": "/web3012_coding_assignment14/precache-manifest.dd7385ac98711eed33a4f4430089657f.js",
+    "service-worker.js": "/web3012_coding_assignment14/service-worker.js",
+    "static/css/2.fd277b09.chunk.css.map": "/web3012_coding_assignment14/static/css/2.fd277b09.chunk.css.map",
+    "static/css/main.df700d1f.chunk.css.map": "/web3012_coding_assignment14/static/css/main.df700d1f.chunk.css.map",
+    "static/js/2.6b8ed305.chunk.js.LICENSE.txt": "/web3012_coding_assignment14/static/js/2.6b8ed305.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4ffc4c9.js",
+    "static/css/2.fd277b09.chunk.css",
+    "static/js/2.6b8ed305.chunk.js",
+    "static/css/main.df700d1f.chunk.css",
+    "static/js/main.96879bbb.chunk.js"
+  ]
+}
